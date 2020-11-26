@@ -744,6 +744,14 @@ ul.contact li a.icon-rss:before
 		background-size: cover;
 	}
 
+	#header-project
+	{
+		height: 30em;
+		background-image: url(images/project.jpg);
+		background-position: center;
+		background-size: cover;
+	}
+
 
 #slider-wrapper
 {
