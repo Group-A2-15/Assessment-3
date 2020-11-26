@@ -736,6 +736,14 @@ ul.contact li a.icon-rss:before
 		background-size: cover;
 	}
 
+	#header-aboutus
+	{
+		height: 30em;
+		background-image: url(images/aboutus.jpg);
+		background-position: center;
+		background-size: cover;
+	}
+
 
 #slider-wrapper
 {
