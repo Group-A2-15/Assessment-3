@@ -752,6 +752,29 @@ ul.contact li a.icon-rss:before
 		background-size: cover;
 	}
 
+	#header-reflection
+	{
+		height: 30em;
+		background-image: url(images/reflections.jpg);
+		background-position: center;
+		background-size: cover;
+	}
+
+	#header-skillsjobs
+	{
+		height: 30em;
+		background-image: url(images/skillsjobs.jpg);
+		background-position: center;
+		background-size: cover;
+	}
+
+	#header-references
+	{
+		height: 30em;
+		background-image: url(images/references.jpg);
+		background-position: center;
+		background-size: cover;
+	}
 
 #slider-wrapper
 {
